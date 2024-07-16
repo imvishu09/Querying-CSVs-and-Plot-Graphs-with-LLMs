@@ -1,6 +1,3 @@
-Certainly! Below is a sample `README.md` file content that you can use for your GitHub repository based on the project "Querying CSVs and Plot Graphs with LLMs":
-
-```markdown
 # Querying CSVs and Plot Graphs with LLMs
 
 Welcome to the project repository for **Querying CSVs and Plot Graphs with LLMs**. This project demonstrates how to perform statistical analysis on CSV files and generate plots using Python, Pandas, Matplotlib, and integrate with a Language Model (LLM) for generating insights.
